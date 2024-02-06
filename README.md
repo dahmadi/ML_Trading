@@ -19,13 +19,13 @@ In the previous sections, you updated your README.md file with your conclusions.
 
 ### Model 1 
 
-Short Window = 4
-Long Window = 100
-Data Off Set = 3 Months 
+Short Window = 4\
+Long Window = 100\
+Data Off Set = 3 Months
 
 F1 Scores:
 
--1.0 : 0.07
+-1.0 : 0.07\
 1.0  : 0.71
 
 
