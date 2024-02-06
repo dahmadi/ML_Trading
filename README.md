@@ -12,3 +12,29 @@ In a Jupyter notebook, you’ll do the following:
 Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
 Adjust the input parameters to optimize the trading algorithm.
 Train a new machine learning model and compare its performance to that of a baseline model.
+
+## Create an Evaluation Report
+
+In the previous sections, you updated your README.md file with your conclusions. To finish this section, add a summary evaluation report at the end of the README.md file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
+
+### Model 1 
+
+Short Window = 4
+Long Window = 100
+Data Off Set = 3 Months 
+
+F1 Scores:
+
+-1.0 : 0.07
+1.0  : 0.71
+
+
+
+
+### Model 2 
+
+F1 Scores: 
+
+-1.0 : 0.38
+1.0  : 0.61
+
