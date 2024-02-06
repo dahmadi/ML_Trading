@@ -23,7 +23,7 @@ Short Window = 4
 
 Long Window = 100
 
-Data Off Set = 3 Months
+DataOffSet = 3 Months
 
 
 F1 Scores:
@@ -34,10 +34,16 @@ F1 Scores:
 
 ![alt=""](Machine1.png)
 
+Conclusion: From this graph, it shows that the SVC model had slightly larger gains than the actual returns. It also predicts the actual returns decently well, as the trends of the graphs look very similar.  
+
 ### Model 2 
 
 F1 Scores: 
 
 -1.0 : 0.38
 1.0  : 0.61
+
+![alt=""](Machine2.png)
+
+Conclusion: Compared to the first model, this model does not predict as accuruately. I would choose the first model, and try to tweak it, rather than the second, as the prediction quality seems better. 
 
