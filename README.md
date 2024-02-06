@@ -32,8 +32,7 @@ F1 Scores:
 
 1.0  : 0.71
 
-
-
+![alt=""](Machine1.png)
 
 ### Model 2 
 
